@@ -49,10 +49,6 @@ abba
 Accepted
 ```
 
-## Output Screenshot
-
-![Output](output.png)
-
 ## Author
 
 Gayathri
