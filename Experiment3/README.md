@@ -59,9 +59,6 @@ C → -
 ε-closure(C) = {C}
 ```
 
-## Output Screenshot
-
-![Output](output.png)
 
 ## Result
 
